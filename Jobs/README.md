@@ -2,7 +2,7 @@
 
 # Jobs
 
-<img src="https://img.shields.io/badge/APIs-1,436-blue?style=for-the-badge&logo=api" alt="Total APIs">
+<img src="https://img.shields.io/badge/APIs-1,442-blue?style=for-the-badge&logo=api" alt="Total APIs">
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <p align="right"><a href="../#-table-of-contents">Back to Categories</a></p>
 
-**1,436 APIs in this category**
+**1,442 APIs in this category**
 
 | API Name | Description | Rating | Total Users |
 |----------|-------------|--------|-------------|
@@ -1017,12 +1017,16 @@
 | [Job Market Intelligence](https://apify.com/ryanclinton/job-market-intelligence?fpr=data) | Aggregate remote job listings from Remotive, Arbeitnow, Jobicy & HN Who's Hiring. Analyze skill demand rankings, salary benchmarks, top hiring companies, remote-work stats. No API keys needed. Expo... | 0.00 | 3 |
 | [Indeed Scraper](https://apify.com/automation-lab/indeed-scraper?fpr=data) | Scrape Indeed job listings with salary, company details, and full descriptions. Search by keyword, location, job type across 18 countries. Pure HTTP — fast and cheap. Export to JSON, CSV, Excel. | 0.00 | 2 |
 | [BambooHR Jobs Scraper](https://apify.com/deadlyaccurate/bamboohr-jobs-scraper?fpr=data) | Scrape all job listings from any BambooHR-powered career page. Returns structured job data with titles, locations, departments, and application URLs. | 0.00 | 2 |
+| [Linkedin Profile And Company Posts Scraper](https://apify.com/scraperforge/linkedin-profile-and-company-posts-scraper?fpr=data) | LinkedIn Profile and Company Posts Scraper extracts public data from LinkedIn profiles and company pages. It collects profile details, company info, post content, engagement metrics, and timestamps... | N/A | 2 |
 | [Dover Jobs Scraper](https://apify.com/deadlyaccurate/dover-jobs-scraper?fpr=data) | Discover and scrape every job posted on Dover-powered job boards. Supports single or multi-company scraping with unified output format. | 0.00 | 2 |
 | [Welcome to the Jungle Jobs Scraper](https://apify.com/logiover/welcome-to-the-jungle-jobs-scraper?fpr=data) | Scrapes job listings from Welcome to the Jungle (WTTJ) via Algolia search API. Filter by keyword, contract type, remote policy, salary and experience. Covers 10,000+ companies across Europe and the... | N/A | 2 |
 | [Linkedin Lead Scraper](https://apify.com/api-empire/linkedin-lead-scraper?fpr=data) | LinkedIn Lead Scraper extracts professional lead data from LinkedIn profiles and search results. Collect names, job titles, companies, locations, and profile URLs. Ideal for B2B lead generation, sa... | N/A | 2 |
+| [Built In Tech Jobs Scraper](https://apify.com/logiover/built-in-tech-jobs-scraper?fpr=data) | Scrapes tech and startup job listings from Built In (builtin.com). Filter by keyword, remote policy, experience level, company size and category. Extracts title, company, salary, skills, location a... | N/A | 2 |
 | [College Recruiter Job Scraper 🔍💼🎓- Cheap](https://apify.com/scrapestorm/college-recruiter-job-scraper---cheap?fpr=data) | 🔍 Easily extract College Recruiter job listings  Collect structured job data from College Recruiter, including job titles, company names, locations, summaries, posting dates and more 🎓💼  Ideal for ... | 0.00 | 2 |
 | [Linkedin Profile Lead Scraper](https://apify.com/api-empire/linkedin-profile-lead-scraper?fpr=data) | LinkedIn Profile Lead Scraper extracts lead data from LinkedIn profiles. Collect names, job titles, companies, profile URLs, locations, and other public details. Ideal for B2B lead generation, sale... | N/A | 2 |
+| [Blind (by GuidePoint) Scraper](https://apify.com/parseforge/blind-by-guidepoint-scraper?fpr=data) | Extract anonymous salary discussions, compensation data, and career insights from Blind. Collect base salary, bonus, RSU, total comp, and company details from 4M+ verified employee posts. Filter by... | N/A | 2 |
 | [Pinpoint Jobs Scraper](https://apify.com/deadlyaccurate/pinpoint-jobs-scraper?fpr=data) | Scrape all job listings from any Pinpoint-powered career page. Returns structured job data with titles, locations, departments, and application URLs. | 0.00 | 2 |
+| [Linkedin Company Employees Scraper](https://apify.com/scraperforge/linkedin-company-employees-scraper?fpr=data) | LinkedIn Company Employees Scraper extracts employee profiles from LinkedIn company pages. It collects names, job titles, profile URLs, locations, and profile details. Ideal for lead generation, re... | N/A | 2 |
 | [Global Public Tenders & Government Contracts Scraper](https://apify.com/lofomachines/public-tenders-scraper?fpr=data) | Find open public tenders, government contracts, public procurement notices, bids, and RFP opportunities across Italy, France, Germany, Spain, the UK, the US, and India in one normalized JSON feed. | N/A | 2 |
 | [Italian Public Tenders Scraper](https://apify.com/lofomachines/italian-public-tenders-scraper?fpr=data) | Search live Italian public tenders by keyword or category, keep only open opportunities, and return clean data with notice history and tender details. | 0.00 | 2 |
 | [InfoJobs Job Scraper - Barato Cheap 💼🇪🇸🔎](https://apify.com/scrapestorm/infojobs-job-scraper---barato-cheap?fpr=data) | Looking to collect job listings from InfoJobs? 💼🇪🇸  With this InfoJobs Job Scraper 🔎 gather job data from InfoJobs URLs including job title, company name, location, work mode, salary, contract type... | 0.00 | 2 |
@@ -1033,8 +1037,10 @@
 | [Finn.no Job Scraper 🔍💼🇳🇴 - Cheap](https://apify.com/scrapestorm/finn-no-job-scraper---cheap?fpr=data) | 🔍 Easily extract Finn.no job listings data Collect structured job and employer data from Finn.no, including job titles, companies, locations, posting dates, and direct job links 💼📊  Ideal for job m... | 0.00 | 1 |
 | [InfoJobs BR Company Reviews Scraper - Barato Cheap ⭐🇧🇷🏢🔎](https://apify.com/scrapestorm/infojobs-br-company-reviews-scraper---barato-cheap?fpr=data) | Looking to collect company reviews from InfoJobs? ⭐🇧🇷  With this Scraper 🔎 gather employee reviews from InfoJobs company URLs including review title, overall rating, work rating, work‑life balance,... | N/A | 1 |
 | [LinkedIn Search Jobs Scraper](https://apify.com/scraperx/linkedin-search-jobs-scraper?fpr=data) | Scrape job listings from LinkedIn using search queries, company names, job URLs, or structured inputs like keywords and locations. Supports sorting, proxy fallbacks, and detailed logging. | 0.00 | 1 |
+| [Linkedin Company Employees Scraper](https://apify.com/scrapelabsapi/linkedin-company-employees-scraper?fpr=data) | LinkedIn Company Employees Scraper extracts employee profiles from LinkedIn company pages. It gathers names, job titles, profile URLs, locations, and role details. Useful for recruitment research, ... | N/A | 1 |
 | [Indeed Job Scraper](https://apify.com/scrapio/indeed-job-scraper?fpr=data) | Indeed Job Scraper extracts job listings from Indeed search results. Collect job titles, company names, locations, salaries, descriptions, posting dates, and job URLs. Ideal for job market research... | N/A | 1 |
 | [Universal Remote Job Scraper](https://apify.com/kmltmr00/universal-remote-job-scraper?fpr=data) | Get the latest remote jobs from global platforms automatically. Perfect for job seekers and recruiters. | N/A | 1 |
+| [Linkedin Company Profile Scraper](https://apify.com/scrapelabsapi/linkedin-company-profile-scraper?fpr=data) | LinkedIn Company Profile Scraper extracts public data from LinkedIn company pages. It collects company name, industry, employee size, headquarters, website, follower count, and descriptions. Ideal ... | N/A | 1 |
 | [Zoominfo Scraper](https://apify.com/getdataforme/zoominfo-scraper?fpr=data) | Zoominfo Scraper extracts company data from Zoominfo, including name, description, FAQs, executives, and key metadata, providing structured JSON output for market research, competitor analysis, lea... | 0.00 | 29 |
 | [Ebay Seller Feedback Scraper](https://apify.com/getdataforme/Ebay-Seller-Feedback-Scraper?fpr=data) | Scrape detailed feedback from any eBay seller profile, including ratings, comments, buyer info, item details, and more. Perfect for market research, sentiment analysis, and competitor tracking. Eas... | 0.00 | 12 |
 | [Malt Scraper Ppr](https://apify.com/silentflow/malt-scraper-ppr?fpr=data) | Extract freelancer profiles from Malt with predictable pay-per-result pricing. Scrape developers, designers & consultants across France & Europe. Get daily rates, skills, ratings, availability. Sim... | 3.11 | 6 |

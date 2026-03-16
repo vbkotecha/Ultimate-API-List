@@ -2,7 +2,7 @@
 
 # Real estate
 
-<img src="https://img.shields.io/badge/APIs-1,471-blue?style=for-the-badge&logo=api" alt="Total APIs">
+<img src="https://img.shields.io/badge/APIs-1,473-blue?style=for-the-badge&logo=api" alt="Total APIs">
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <p align="right"><a href="../#-table-of-contents">Back to Categories</a></p>
 
-**1,471 APIs in this category**
+**1,473 APIs in this category**
 
 | API Name | Description | Rating | Total Users |
 |----------|-------------|--------|-------------|
@@ -1020,7 +1020,9 @@
 | [Propertyfinder Eg Scraper](https://apify.com/mo_khairy/propertyfinder-eg-scraper?fpr=data) | Property Finder Egypt Scraper extracts structured real estate listing data from `propertyfinder.eg` for both sale and rent searches | 0.00 | 2 |
 | [Spain Portugal Real Estate Scraper](https://apify.com/friendly_keelboat/spain-portugal-real-estate?fpr=data) | Scrape Idealista, Fotocasa, Milanuncios & Supercasa in one run. 9 cities, 70+ fields, cross-source deduplication. The only Milanuncios scraper on Apify. | N/A | 2 |
 | [Yad2.co.il Real Estate Scraper](https://apify.com/swerve/yad2-scraper?fpr=data) | Scrape real estate listings (rent & buy) from Yad2.co.il, Israel's #1 classifieds site. High-coverage scraping with price, rooms, area, amenities, images, and descriptions across 127+ Israeli cities. | 0.00 | 2 |
+| [Apartments.com Rental Market Intelligence Scraper](https://apify.com/parseforge/apartments-com-rental-market-intelligence-scraper?fpr=data) | Extract rental listings from Apartments.com with pricing, availability, property details, pet policies, and contact info. Search by city, filter by bedrooms, price range, and property type. Perfect... | 0.00 | 2 |
 | [Expedia Reviews Spider](https://apify.com/getdataforme/expedia-reviews-spider?fpr=data) | Extract detailed hotel data from Expedia, including names, ratings, prices, and amenities. Perfect for travel agencies and researchers, this reliable scraper offers scalable performance, proxy anon... | N/A | 1 |
+| [Google Maps Email Extractor](https://apify.com/crawlerbros/google-maps-email-extractor?fpr=data) | Extract business emails, phone numbers, and social media links from Google Maps. Search for businesses by query, get contact details, addresses, ratings, and websites enriched with email addresses. | N/A | 1 |
 | [Boligsiden Property Scraper - Billig Cheap 🏠🇩🇰🔎](https://apify.com/scrapestorm/boligsiden-property-scraper---billig-cheap?fpr=data) | Looking to collect properties from Boligsiden.dk?🇩🇰  With this Boligsiden Property Scraper 🔎 gather real estate data from Boligsiden URLs including address, property type, price, price per m², agen... | N/A | 1 |
 | [Zillow Search Scraper](https://apify.com/scraperx/zillow-search-scraper?fpr=data) | Zillow Search Scraper extracts property listings from Zillow search results. It collects prices, addresses, property details, listing URLs, images, and agent information. Ideal for real estate mark... | N/A | 1 |
 | [HolidayCheck Hotel Scraper - Billig Cheap 🏨📊🌍](https://apify.com/scrapestorm/holidaycheck-hotel-scraper---billig-cheap?fpr=data) | Looking to collect hotels from HolidayCheck.de efficiently? 🏨  With the HolidayCheck Hotel Scraper 🌍gather hotel listings from specific search or destination URLs including hotel name, rating, loca... | N/A | 1 |

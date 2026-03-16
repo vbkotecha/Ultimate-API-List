@@ -2,7 +2,7 @@
 
 # Other
 
-<img src="https://img.shields.io/badge/APIs-3,239-blue?style=for-the-badge&logo=api" alt="Total APIs">
+<img src="https://img.shields.io/badge/APIs-3,243-blue?style=for-the-badge&logo=api" alt="Total APIs">
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <p align="right"><a href="../#-table-of-contents">Back to Categories</a></p>
 
-**3,239 APIs in this category**
+**3,243 APIs in this category**
 
 | API Name | Description | Rating | Total Users |
 |----------|-------------|--------|-------------|
@@ -878,7 +878,7 @@
 | [Simple HTTP Status Code Checker](https://apify.com/onescales/simple-http-status-code-checker?fpr=data) | This Apify Actor allows you to check in bulk HTTP status codes and redirects for a list of URL's. It's a useful tool for SEO audits, website maintenance, and link checking. | 5.00 | 1,626 |
 | [MEGA Uploader & Downloader – No Download Limit](https://apify.com/code-node-tools/mega-uploader-downloader---no-download-limit?fpr=data) | Bypass MEGA.nz download limits and transfer quota to automate uploads and downloads of MEGA files and folders. Supports public links or login-based access. Ideal for backups, file delivery, and usi... | 0.00 | 887 |
 | [Linkedin Sales Navigator Scraper](https://apify.com/freshdata/linkedin-sales-navigator-scraper?fpr=data) | A powerful tool designed to extract detailed leads information from a sales navigator URL — without the need for cookies or login. | 5.00 | 623 |
-| [Instagram User Scraper · Fast & Affordable](https://apify.com/apidojo/instagram-user-scraper?fpr=data) | Extract Instagram profiles, followers, following lists, and public emails by username, URL, or ID. Get bio, verification status, follower counts, contact info. $0.02/search includes 40 FREE profile... | 5.00 | 519 |
+| [Instagram User Scraper · Fast & Affordable](https://apify.com/apidojo/instagram-user-scraper?fpr=data) | Extract Instagram profiles, followers, following lists, and public emails by username, URL, or ID. Get bio, verification status, follower counts, contact info. $0.02/search includes 40 FREE profile... | 5.00 | 521 |
 | [Instagram Bot Detector](https://apify.com/louisdeconinck/instagram-bot-detector?fpr=data) | Instantly analyze Instagram profiles to detect fake followers, bot accounts, and artificial influencers. Get a precision 0-1 Bot Score based on engagement, ratios, and behavioral signals. | 5.00 | 510 |
 | [Holehe Email Osint](https://apify.com/anshumanatrey/holehe-email-osint?fpr=data) | Check if an email is registered on 120+ platforms (Instagram, Twitter, GitHub, Discord, etc.) without alerting the target. Perfect for OSINT investigations, security research, and email verification. | 5.00 | 463 |
 | [Modern Manga Colorizer](https://apify.com/parseforge/modern-manga-colorizer?fpr=data) | AI-powered colorization tool for black and white manga panels. Upload manga panel images and get them automatically colorized with vibrant, appropriate colors that match manga art style. Maintains ... | 5.00 | 424 |
@@ -1078,8 +1078,10 @@
 | [ArXiv Scraper](https://apify.com/automation-lab/arxiv-scraper?fpr=data) | Scrape ArXiv research papers — titles, authors, abstracts, subjects, submission dates, and PDF links. | 0.00 | 2 |
 | [Apple App Store Scraper](https://apify.com/4bdullatif/appstore-scraper?fpr=data) | Scrapes Apple App Store listings using the iTunes Search API. Searches by terms, country, and category. Returns structured app listing data including ratings, pricing, and descriptions. | 0.00 | 2 |
 | [Full Book Torre del alba (Trono de cristal, #6) by Sarah J.](https://apify.com/thebrother/full-book-torre-del-alba-trono-de-cristal-6-by-sarah-j?fpr=data) | Read or download **Torre del alba (Trono de cristal, #6) by Sarah J. Maas** PDF online. Click the link below to access the ebook instantly 👉 [📖 READ ME] | N/A | 2 |
+| [Justia Lawyer Directory Scraper](https://apify.com/jungle_synthesizer/justia-scraper?fpr=data) | Scrape attorney profiles from Justia.com. Extract names, contact details, practice areas, education, bar admissions, ratings, and reviews. Filter by U.S. state and practice area. Ideal for legal ma... | N/A | 2 |
 | [AkhilTruthNode](https://apify.com/akhiltruthnode/my-actor?fpr=data) | A specialized 2026 data node providing high-fidelity, verified truth feeds. This Actor fetches real-time CSV assets for AI agents, research institutions, and decentralized datasets. Reliable, fast,... | N/A | 2 |
 | [Shiply.com Freight Marketplace Scraper](https://apify.com/parseforge/shiply-com-freight-marketplace-scraper?fpr=data) | Collect live freight load listings from Shiply's marketplace across 11 countries. Get pickup and delivery locations, distances, quote counts, item categories, and posting dates. Perfect for logisti... | 0.00 | 2 |
+| [Board Game Rankings & Data Scraper](https://apify.com/logiover/board-game-rankings-data-scraper?fpr=data) | Scrapes board game rankings, ratings and data from the world's largest board game database. Get top-ranked games by geek rating, search by title, or fetch specific game IDs. No API token or proxy n... | 0.00 | 2 |
 | [Multi-Platform Review Analyzer](https://apify.com/ryanclinton/multi-review-analyzer?fpr=data) | Aggregate reviews from Trustpilot, Google, and BBB for any business. Sentiment analysis, rating trends, and theme detection. Returns ratings, review text, sentiment scores, and BBB accreditation in... | 0.00 | 2 |
 | [Openfoodfacts Scraper](https://apify.com/automation-lab/openfoodfacts-scraper?fpr=data) | Extract food product data from Open Food Facts. Get nutrition facts, ingredients, Nutri-Score, allergens, and labels for 3M+ products. Filter by category, country, grade. | 0.00 | 2 |
 | [Openlibrary Scraper](https://apify.com/automation-lab/openlibrary-scraper?fpr=data) | Scrape book metadata from Open Library's 20M+ catalog. Search by keyword, get titles, authors, ISBNs, ratings, covers, and reading stats. Export as JSON/CSV. Pay per result. | 0.00 | 2 |
@@ -1108,6 +1110,7 @@
 | [Head News AI](https://apify.com/rodrigo_pacelli/headline-news-scraper?fpr=data) | Scrape headlines from 424+ news portals in 101 countries. Extract titles, links, descriptions, and images. Optional AI classification into 25 news topics using Groq. | 0.00 | 2 |
 | [Interpol Red Notice & Wanted Persons Search](https://apify.com/ryanclinton/interpol-red-notices?fpr=data) | Search Interpol red notices and wanted persons database via API. Filter by name, nationality, age, sex, or free text. Returns full details: charges, arrest warrants, physical descriptions, photos, ... | 0.00 | 2 |
 | [UK Food Hygiene Ratings Search](https://apify.com/ryanclinton/uk-food-hygiene?fpr=data) | Search UK Food Standards Agency FHRS hygiene ratings for restaurants, takeaways & food businesses in England, Wales & NI. Filter by name, postcode, location, rating 0-5, or local authority. Get ins... | 0.00 | 2 |
+| [Apartments.com Rental Market Intelligence Scraper](https://apify.com/parseforge/apartments-com-rental-market-intelligence-scraper?fpr=data) | Extract rental listings from Apartments.com with pricing, availability, property details, pet policies, and contact info. Search by city, filter by bedrooms, price range, and property type. Perfect... | 0.00 | 2 |
 | [Federal Register Rules & Regulations Search](https://apify.com/ryanclinton/federal-register-search?fpr=data) | Search the US Federal Register for rules, proposed rules, notices, and executive orders. Filter by agency, document type, date, and significance. Returns full regulatory details. | 0.00 | 2 |
 | [Super Lawyers Scraper - Top Attorney Directory](https://apify.com/jungle_synthesizer/superlawyers-scraper?fpr=data) | Scrape peer-reviewed attorney profiles from SuperLawyers.com. Extract names, firms, practice areas, contact info, selection years, education, and social links. Filter by state and practice area. | 0.00 | 2 |
 | [Clinicaltrials Scraper](https://apify.com/automation-lab/clinicaltrials-scraper?fpr=data) | Search 570,000+ clinical trials from ClinicalTrials.gov. Get trial status, sponsors, conditions, interventions, phases, eligibility criteria, and study locations. | 0.00 | 2 |
@@ -1118,6 +1121,7 @@
 | [Reddit Lead Scraper](https://apify.com/api-empire/reddit-lead-scraper?fpr=data) | Reddit Lead Scraper extracts potential leads from Reddit posts and comments across subreddits. Collect usernames, profile links, post titles, comment text, and engagement data. Ideal for lead gener... | N/A | 1 |
 | [Read Online PDF The Road Map: Escaping the Maze of Madness by](https://apify.com/thebrother/read-online-pdf-the-road-map-escaping-the-maze-of-madness-by?fpr=data) | Read or download **The Road Map: Escaping the Maze of Madness by David Icke** PDF online. Click the link below to access the ebook instantly 👉 [📖 READ ME] | N/A | 1 |
 | [Barème Kilométrique — impots.gouv.fr](https://apify.com/sylvainrt/bareme-kilometrique-impots?fpr=data) | Scrapes official French mileage allowance rates (barème kilométrique) from impots.gouv.fr and returns structured JSON data per fiscal power category. | N/A | 1 |
+| [Google Maps Email Extractor](https://apify.com/crawlerbros/google-maps-email-extractor?fpr=data) | Extract business emails, phone numbers, and social media links from Google Maps. Search for businesses by query, get contact details, addresses, ratings, and websites enriched with email addresses. | N/A | 1 |
 | [Sysco Food Service Scraper](https://apify.com/parseforge/sysco-scraper?fpr=data) | Extract wholesale food service product data from Sysco, the largest foodservice distributor in North America. Get case prices, unit costs, nutritional info, pack sizes, inventory status, brand deta... | 0.00 | 1 |
 | [Read The World's Wimpiest Vampire (Supernatural Suckers, #2)](https://apify.com/viaalpinas/read-the-world-s-wimpiest-vampire-supernatural-suckers-2?fpr=data) | Read or download **The World's Wimpiest Vampire (Supernatural Suckers, #2) by Silvana Falcon** PDF online. Click the link below to access the ebook instantly 👉 [📖 READ ME] | N/A | 1 |
 | [BODACC — Annonces légales françaises](https://apify.com/sylvainrt/bodacc-scraper?fpr=data) | Scrapes French legal announcements (créations, radiations, procédures collectives, ventes...) from the official BODACC open data API. Filter by type, department, date range or SIREN number. | N/A | 1 |

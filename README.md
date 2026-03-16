@@ -4,13 +4,13 @@
 
 <img src="https://i.imgur.com/ThIjUnV.jpeg" alt="Ultimate API List Cover" style="max-width: 100%; height: auto;">
 
-**The most comprehensive collection of APIs on GitHub** - 49,306 ready-to-use APIs for building everything from simple automations to full-scale applications.
+**The most comprehensive collection of APIs on GitHub** - 49,351 ready-to-use APIs for building everything from simple automations to full-scale applications.
 
 ---
 
 ### Repository Stats
 
-<img src="https://img.shields.io/badge/APIs-49,306-blue?style=for-the-badge&logo=api" alt="Total APIs">
+<img src="https://img.shields.io/badge/APIs-49,351-blue?style=for-the-badge&logo=api" alt="Total APIs">
 <img src="https://img.shields.io/badge/Categories-17-green?style=for-the-badge&logo=tag" alt="Categories">
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=check-circle" alt="Status">
 <img src="https://img.shields.io/badge/Updated-Daily-brightgreen?style=for-the-badge&logo=clock" alt="Updated">
@@ -33,7 +33,7 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total APIs** | **49,306** |
+| **Total APIs** | **49,351** |
 | **Categories** | **17** |
 | **Last Updated** | 2026-03-16 |
 
@@ -43,7 +43,7 @@
 
 ## What Can You Build?
 
-This collection contains **49,306 ready-to-use APIs** that you can integrate directly into your applications. Whether you're building web scrapers, automating workflows, processing data, or creating AI-powered tools, these APIs provide the building blocks you need.
+This collection contains **49,351 ready-to-use APIs** that you can integrate directly into your applications. Whether you're building web scrapers, automating workflows, processing data, or creating AI-powered tools, these APIs provide the building blocks you need.
 
 **The possibilities are endless:**
 
@@ -66,22 +66,22 @@ This collection contains **49,306 ready-to-use APIs** that you can integrate dir
 ## Table of Contents
 
 - [Agents](./Agents/) - 1,259 APIs
-- [AI](./AI/) - 2,498 APIs
-- [Automation](./Automation/) - 9,997 APIs
-- [Developer tools](./Developer_tools/) - 5,798 APIs
-- [Ecommerce](./Ecommerce/) - 4,175 APIs
+- [AI](./AI/) - 2,499 APIs
+- [Automation](./Automation/) - 10,007 APIs
+- [Developer tools](./Developer_tools/) - 5,804 APIs
+- [Ecommerce](./Ecommerce/) - 4,174 APIs
 - [Integrations](./Integrations/) - 1,329 APIs
-- [Jobs](./Jobs/) - 1,436 APIs
-- [Lead generation](./Lead_generation/) - 7,350 APIs
+- [Jobs](./Jobs/) - 1,442 APIs
+- [Lead generation](./Lead_generation/) - 7,360 APIs
 - [MCP servers](./MCP_servers/) - 296 APIs
 - [News](./News/) - 955 APIs
 - [Open source](./Open_source/) - 820 APIs
-- [Real estate](./Real_estate/) - 1,471 APIs
-- [SEO tools](./SEO_tools/) - 1,300 APIs
-- [Social media](./Social_media/) - 5,200 APIs
+- [Real estate](./Real_estate/) - 1,473 APIs
+- [SEO tools](./SEO_tools/) - 1,301 APIs
+- [Social media](./Social_media/) - 5,204 APIs
 - [Travel](./Travel/) - 761 APIs
-- [Videos](./Videos/) - 1,422 APIs
-- [Other](./Other/) - 3,239 APIs
+- [Videos](./Videos/) - 1,424 APIs
+- [Other](./Other/) - 3,243 APIs
 
 ---
 
@@ -99,7 +99,7 @@ This collection contains **49,306 ready-to-use APIs** that you can integrate dir
 
 <p align="right"><a href="#table-of-contents">Back to top</a></p>
 
-**2,498 APIs in this category** | [View all &rarr;](./AI/)
+**2,499 APIs in this category** | [View all &rarr;](./AI/)
 
 ---
 
@@ -107,7 +107,7 @@ This collection contains **49,306 ready-to-use APIs** that you can integrate dir
 
 <p align="right"><a href="#table-of-contents">Back to top</a></p>
 
-**9,997 APIs in this category** | [View all &rarr;](./Automation/)
+**10,007 APIs in this category** | [View all &rarr;](./Automation/)
 
 ---
 
@@ -115,7 +115,7 @@ This collection contains **49,306 ready-to-use APIs** that you can integrate dir
 
 <p align="right"><a href="#table-of-contents">Back to top</a></p>
 
-**5,798 APIs in this category** | [View all &rarr;](./Developer_tools/)
+**5,804 APIs in this category** | [View all &rarr;](./Developer_tools/)
 
 ---
 
@@ -123,7 +123,7 @@ This collection contains **49,306 ready-to-use APIs** that you can integrate dir
 
 <p align="right"><a href="#table-of-contents">Back to top</a></p>
 
-**4,175 APIs in this category** | [View all &rarr;](./Ecommerce/)
+**4,174 APIs in this category** | [View all &rarr;](./Ecommerce/)
 
 ---
 
@@ -139,7 +139,7 @@ This collection contains **49,306 ready-to-use APIs** that you can integrate dir
 
 <p align="right"><a href="#table-of-contents">Back to top</a></p>
 
-**1,436 APIs in this category** | [View all &rarr;](./Jobs/)
+**1,442 APIs in this category** | [View all &rarr;](./Jobs/)
 
 ---
 
@@ -147,7 +147,7 @@ This collection contains **49,306 ready-to-use APIs** that you can integrate dir
 
 <p align="right"><a href="#table-of-contents">Back to top</a></p>
 
-**7,350 APIs in this category** | [View all &rarr;](./Lead_generation/)
+**7,360 APIs in this category** | [View all &rarr;](./Lead_generation/)
 
 ---
 
@@ -179,7 +179,7 @@ This collection contains **49,306 ready-to-use APIs** that you can integrate dir
 
 <p align="right"><a href="#table-of-contents">Back to top</a></p>
 
-**1,471 APIs in this category** | [View all &rarr;](./Real_estate/)
+**1,473 APIs in this category** | [View all &rarr;](./Real_estate/)
 
 ---
 
@@ -187,7 +187,7 @@ This collection contains **49,306 ready-to-use APIs** that you can integrate dir
 
 <p align="right"><a href="#table-of-contents">Back to top</a></p>
 
-**1,300 APIs in this category** | [View all &rarr;](./SEO_tools/)
+**1,301 APIs in this category** | [View all &rarr;](./SEO_tools/)
 
 ---
 
@@ -195,7 +195,7 @@ This collection contains **49,306 ready-to-use APIs** that you can integrate dir
 
 <p align="right"><a href="#table-of-contents">Back to top</a></p>
 
-**5,200 APIs in this category** | [View all &rarr;](./Social_media/)
+**5,204 APIs in this category** | [View all &rarr;](./Social_media/)
 
 ---
 
@@ -211,7 +211,7 @@ This collection contains **49,306 ready-to-use APIs** that you can integrate dir
 
 <p align="right"><a href="#table-of-contents">Back to top</a></p>
 
-**1,422 APIs in this category** | [View all &rarr;](./Videos/)
+**1,424 APIs in this category** | [View all &rarr;](./Videos/)
 
 ---
 
@@ -219,12 +219,12 @@ This collection contains **49,306 ready-to-use APIs** that you can integrate dir
 
 <p align="right"><a href="#table-of-contents">Back to top</a></p>
 
-**3,239 APIs in this category** | [View all &rarr;](./Other/)
+**3,243 APIs in this category** | [View all &rarr;](./Other/)
 
 ---
 
 <div align="center">
 
-**49,306 APIs** across **17 categories** - Updated daily
+**49,351 APIs** across **17 categories** - Updated daily
 
 </div>
